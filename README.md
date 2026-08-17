@@ -2,7 +2,7 @@
 
 A feedforward neural network built from scratch using NumPy and trained on the MNIST dataset.
 
-The main goal of this project is to understand what happens inside a neural network during training instead of relying on a deep learning framework. The implementation includes forward propagation, backpropagation, mini-batch training, dropout, and the Adam optimizer.
+The implementation includes forward propagation, backpropagation, mini-batch training, dropout, and the Adam optimizer.
 
 ## What is implemented
 
